@@ -90,6 +90,5 @@ That's it! The website should run locally.
 ## 📄 License / Lisensi
 
 This project is open source. Feel free to use the code as reference or inspiration.
-*(Proyek ini open source. Bebas pake kodenya buat referensi atau inspirasi.)*
-
-*(Kalau lu mau tambahin lisensi formal (kayak MIT), bisa tambahin file `LICENSE` terus ganti bagian ini)*.
+ 
+ 
