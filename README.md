@@ -11,7 +11,7 @@ A clean, responsive, and interactive personal portfolio website showcasing proje
 ## ✨ Live Demo
 
 Check out the live version deployed on Vercel:
-**[https://profil-rizki.vercel.app/](https://profil-rizki.vercel.app/)** ---
+**[https://profil-rizki.vercel.app/](https://portofolio-rizki-weld.vercel.app/)** ---
 
 ## 📸 Preview
 
